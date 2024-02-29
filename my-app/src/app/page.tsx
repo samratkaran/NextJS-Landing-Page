@@ -1,3 +1,4 @@
+import FeaturedCourses from "@/components/FeaturedCourses";
 import HeroSection from "@/components/HeroSection";
 
 
@@ -6,6 +7,7 @@ export default function Home() {
  <main className="bg-black  antialiased  bg-grid-white/[0.02] min-h-screen">
 
   <HeroSection/>
+  <FeaturedCourses/>
 
  
  </main>
