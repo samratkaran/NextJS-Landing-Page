@@ -17,6 +17,7 @@ export default function RootLayout({children}: Readonly<{children: React.ReactNo
         <div className="relative w-full flex items-center justify-center ">
 
         <Navbar/>
+        
 
         </div>
         {children}</body>
