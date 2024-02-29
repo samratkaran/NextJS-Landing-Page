@@ -8,6 +8,8 @@ export default function Home() {
 
   <HeroSection/>
   <FeaturedCourses/>
+  <h3>third compartment</h3>
+
 
  
  </main>
