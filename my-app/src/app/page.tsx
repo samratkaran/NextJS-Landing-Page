@@ -1,5 +1,6 @@
 import FeaturedCourses from "@/components/FeaturedCourses";
 import HeroSection from "@/components/HeroSection";
+import WhyChoseUs from "@/components/WhyChoseUs";
 
 
 export default function Home() {
@@ -8,7 +9,8 @@ export default function Home() {
 
   <HeroSection/>
   <FeaturedCourses/>
-  <h3>third compartment</h3>
+  <WhyChoseUs/>
+  
 
 
  
